@@ -1,0 +1,27 @@
+{
+  "name": "test-sliceplanet",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonidVlasov/test-sliceplanet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonidVlasov/test-sliceplanet/issues"
+  },
+  "homepage": "https://github.com/LeonidVlasov/test-sliceplanet#readme"
+}
